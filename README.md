@@ -1,0 +1,2 @@
+# deb-inspector
+gdebi replacement
