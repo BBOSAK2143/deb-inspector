@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Deb Inspector & Installer
+Comment=Inspect and safely install .deb packages
+Exec=/usr/bin/deb-inspector %f
+Icon=system-software-install
+Terminal=false
+Type=Application
+Categories=System;PackageManager;
+MimeType=application/vnd.debian.binary-package;application/x-deb;
